@@ -7,7 +7,7 @@ int main(void) {
      int totalCola = 5;
      int totalCandybar = 5;
      int totalPopcorn = 5;
-     double userAmount;
+     double userAmount = 0.00;
      double costCola = 0.75;
      double costCandybar = 1.25;
      double costPopcorn = 0.50;
